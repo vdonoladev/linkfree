@@ -1,4 +1,4 @@
-export const SUBTITLE = "Um clone gratuito do LinkTree";
+export const SUBTITLE = "Desenvolvedor Web";
 export const TITLE = "Víctor Donola Ferreira";
 export const TAGLINE =
   "Sou todo teu, ó Maria, e tudo o que é meu te pertence. ❤️";
