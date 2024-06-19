@@ -1,7 +1,7 @@
 export const SUBTITLE = "Desenvolvedor Web";
 export const TITLE = "Víctor Donola Ferreira";
 export const TAGLINE =
-  "Sou todo teu, ó Maria, e tudo o que é meu te pertence. ❤️";
+  "O que importa não é o que você espera da vida, mas o que a vida espera de você. - Viktor Frankl";
 
 // Contacts
 export const contact = "Entre em contato";
