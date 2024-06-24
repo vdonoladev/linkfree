@@ -1,5 +1,5 @@
 ---
-title: Gist GitHub
-emoji: 🐙
-href: https://gist.github.com/vdonoladev
+title: CodePen
+emoji: 🧑🏻‍💻
+href: https://codepen.io/vdonoladev
 ---

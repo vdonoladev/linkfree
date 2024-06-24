@@ -1,5 +1,5 @@
 ---
-title: Medium
-emoji: 📝
-href: https://medium.com/@vdonoladev
+title: Portfolio
+emoji: 🔗
+href: https://mypersonalportfolio-vdonoladev.netlify.app/
 ---

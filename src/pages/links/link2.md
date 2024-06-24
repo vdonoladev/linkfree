@@ -1,5 +1,5 @@
 ---
-title: Github
-emoji: 🐙
-href: https://github.com/vdonoladev
+title: Medium
+emoji: 📝
+href: https://medium.com/@vdonoladev
 ---
