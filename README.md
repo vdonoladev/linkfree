@@ -18,7 +18,7 @@
 
 <h2 id="about">Sobre</h2>
 
-<p><b>LinkFree</b> é um clone do [Linktree](https://linktr.ee), desenvolvido com [Astro](https://astro.build) e [Tailwind CSS](https://tailwindcss.com). Ele oferece uma interface limpa e responsiva para que usuários possam compartilhar vários links em uma única página personalizada.</p>
+<p><b>LinkFree</b> é um clone do Linktree, desenvolvido com Astro e Tailwind CSS. Ele oferece uma interface limpa e responsiva para que usuários possam compartilhar vários links em uma única página personalizada.</p>
 
 <h2 id="started">Começando</h2>
 
